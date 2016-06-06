@@ -1,0 +1,1 @@
+CREATE TABLE data (trade CHAR(64), level CHAR(1), checked CHAR(1)); 
