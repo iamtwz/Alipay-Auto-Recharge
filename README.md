@@ -32,4 +32,4 @@ case后金额为套餐金额
 
     php Command.php
 # License
-GPL V4
+GPL V3
